@@ -21,6 +21,7 @@ out/
 
 # Shell / Local workarounds
 powershell.bat
+git.bat
 
 # IDEs and editors
 .idea/
