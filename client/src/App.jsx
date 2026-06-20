@@ -135,7 +135,7 @@ function App() {
             <footer className="bg-dark text-white py-4 mt-5 text-center">
               <div className="container">
                 <p className="m-0 small">© {new Date().getFullYear()} ShopEZ E-commerce Portal. Developed as a MERN B.Tech Graduation Project.</p>
-                <small className="text-muted">Designed and coded by Harshith Reddy Ramidi (MVC architectural design)</small>
+                <small className="text-muted">Designed and coded by Ramidi Harshith Reddy (MVC architectural design)</small>
               </div>
             </footer>
           </div>
